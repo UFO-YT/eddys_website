@@ -1,0 +1,47 @@
+/* style.css */
+
+#header {
+    padding:20px;
+    margin:auto;
+    width:50%;
+    border:5px solid #8b0000;
+    font-family: Verdana, sans serif, Georgia, Palatino, Arial;
+    background-color: #FFFFE0;
+    text-align: center;
+    }
+    
+    #home {
+    padding:20px;
+    Margin:auto;
+    width:100%;
+    Border:10px solid #8b0000;
+    font-family: Verdana, sans serif, Arial;
+    background-color: #FFD580;
+    text-align: center;
+    }
+    
+    
+    #footer {
+    color:FFFFE0;
+    Padding:20px;
+    Margin: auto;
+    width:60%;
+    Border:5px solid #8b0000;
+    background-color: #FFD580;
+    color:black
+    }
+
+    body {
+        background-color: #24184d;
+    }
+
+    
+    /* maybe add a second box to add screenwrittings to
+    #home2 {
+    border:15px;
+    padding:20px;
+    width:30%;
+    color:#FFD580;
+    }
+    */
+    
