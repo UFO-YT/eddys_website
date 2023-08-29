@@ -8,6 +8,7 @@
     font-family: Verdana, sans serif, Georgia, Palatino, Arial;
     background-color: #FFFFE0;
     text-align: center;
+    background-image: url("trombone-banner.png")
     }
     
     #home {
@@ -28,7 +29,8 @@
     width:60%;
     Border:5px solid #8b0000;
     background-color: #FFD580;
-    color:black
+    color:black;
+    background-image: url("trombone-banner.png");
     }
 
     body {
@@ -49,6 +51,16 @@
 
     #scripttext {
 text-align: left;
+background-color: #7196c7;
+margin:left;
+width:550px;
+border: 3px solid #24184d;
+    }
 
+    #icons {
+        background-color: #d8c195;
+        margin-left:300px;
+        width:700px;
+        border: 3px solid #24184d
 
     }
