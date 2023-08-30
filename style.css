@@ -13,7 +13,7 @@
     
     #home {
     padding:20px;
-    Margin:auto;
+    Margin:0;
     width:100%;
     Border:10px solid #8b0000;
     font-family: Verdana, sans serif, Arial;
@@ -52,7 +52,7 @@
     #scripttext {
 text-align: left;
 background-color: #7196c7;
-margin:left;
+margin:0;
 width:550px;
 border: 3px solid #24184d;
     }
@@ -93,4 +93,24 @@ border: 5px solid #24184d;
 text-align: auto;
 margin:left;
 width:450px;
+    }
+    #online {
+background-color: darkcyan;
+border: 5px solid #24184d;
+text-align: middle;
+width:250px;
+margin:0;
+    }
+    #ad {
+background-color: darkorange;
+border: 5px solid #52370d;
+text-align: auto;
+width:250px;
+    }
+    #screenplays {
+background-color: mediumvioletred;
+border: 5px solid #631859;
+text-align: auto;
+width:500px;
+Margin:right;
     }
